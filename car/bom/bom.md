@@ -58,7 +58,7 @@ for each part is 1.
 
 Plus wires, heat shrinkable tubes...
 
-### For this README.md file
+## License
 
     This file is part of the Carino project documentation.
     Copyright (C) 2015
