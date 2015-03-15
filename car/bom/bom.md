@@ -25,6 +25,14 @@ for each part is 1.
 * [where to buy][pcduino-store]
 * price: 15.90$
 
+### a micro SD card
+
+The firmware's size is approximately 80MB, which is much above the minimal size
+of the SD cards in the market, so any model should be ok, provided the pcduino
+accept it. It is planned to use the remaining free space to store the videos
+recorded by the user. Prices can go as low as 4~5€ for a 4GB no name class 10
+SD card.
+
 ### TRENDnet TEW-624UB
 
 * [where to buy][ldlc-wifi]
